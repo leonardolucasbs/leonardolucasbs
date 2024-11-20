@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação na Unipê, atualmente no segundo período. Estudando programação back-end desde dezembro de 2023, aprimorando técnicas com Python usando programação orientada a objetos. Busco aprimorar minhas habilidades em desenvolvimento de software, criando soluções eficientes e escaláveis.</p>
+<p align="left">Estudante de Ciência da Computação na Unipê, atualmente no segundo período. Estudando programação back-end desde dezembro de 2023, aprimorando técnicas com Python. Busco aprimorar minhas habilidades em desenvolvimento de software, criando soluções eficientes e escaláveis.</p>
 
 ###
 
