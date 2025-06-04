@@ -50,6 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" >
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" height="40" alt="java logo" >
+  <img
 </div>
 
 ###
