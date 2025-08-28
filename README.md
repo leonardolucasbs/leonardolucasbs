@@ -1,16 +1,17 @@
-<h1 align="center">👋 Olá, eu sou o Leonardo Lucas!</h1>
+<h1 align="center">👋 Hi, I'm Leonardo Lucas!</h1>
 
 ---
 
-## 😁 Sobre mim  
+## 😁 About Me  
 
-🎓 Estudante de Ciência da Computação na **Unipê (4º período)**  
-💻 Atualmente focado em <strong>técnicas de Back-End</strong>, com ênfase em **Java** e **Spring Boot**  
-🚀 Busco aprimorar minhas habilidades em desenvolvimento de software, criando soluções **eficientes, escaláveis e de impacto real**  
+🎓 Computer Science student at **Unipê (4th semester)**  
+💻 Currently focused on <strong>Back-End development</strong>, with an emphasis on **Java** and **Spring Boot**  
+🌎 Proudly from **Brazil** 🇧🇷  
+🚀 Passionate about improving my software development skills and building **efficient, scalable, and impactful solutions**  
 
 ---
 
-## 📊 Status  
+## 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leonardolucasbs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
@@ -20,7 +21,7 @@
 
 ---
 
-## 🌍 Redes Sociais  
+## 🌍 Socials  
 
 <p align="center">
   <a href="https://www.instagram.com/leolucaswz/" target="_blank">
@@ -36,7 +37,7 @@
 
 ---
 
-## ⚡ Tecnologias  
+## ⚡ Technologies  
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
