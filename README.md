@@ -4,7 +4,7 @@
 
 ## 😁 About Me  
 
-🎓 Computer Science student at **Unipê (4th semester)**  
+🎓 Computer Science student at **Unipê (5th semester)**  
 💻 Currently focused on <strong>Back-End development</strong>, with an emphasis on **Java** and **Spring Boot**  
 🌎 Proudly from **Brazil** 🇧🇷  
 🚀 Passionate about improving my software development skills and building **efficient, scalable, and impactful solutions**  
