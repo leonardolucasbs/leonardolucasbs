@@ -8,17 +8,6 @@
 💻 Currently focused on <strong>Back-End development</strong>, with an emphasis on **Java** and **Spring Boot**  
 🌎 Proudly from **Brazil** 🇧🇷  
 🚀 Passionate about improving my software development skills and building **efficient, scalable, and impactful solutions**  
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardolucasbs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardolucasbs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardolucasbs&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph" />
-</div>
-
 ---
 
 ## 🌍 Socials  
