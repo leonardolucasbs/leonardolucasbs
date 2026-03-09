@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Leonardo Lucas!</h1>
 
----
+
 
 ## 😁 About Me  
 
@@ -8,7 +8,6 @@
 💻 Currently focused on <strong>Back-End development</strong>, with an emphasis on **Java** and **Spring Boot**  
 🌎 Proudly from **Brazil** 🇧🇷  
 🚀 Passionate about improving my software development skills and building **efficient, scalable, and impactful solutions**  
----
 
 ## 🌍 Socials  
 
@@ -24,7 +23,6 @@
   </a>
 </p>
 
----
 
 ## ⚡ Technologies  
 
