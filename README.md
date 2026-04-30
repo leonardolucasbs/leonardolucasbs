@@ -21,9 +21,6 @@
   <a href="https://www.instagram.com/leolucaswz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
   </a>
-  <a href="mailto:leonardo.seuemail@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-  </a>
   <a href="https://www.linkedin.com/in/leonardo-lucas-a3a482304/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
@@ -70,7 +67,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leolucaswz&show_icons=true&theme=tokyonight&hide_border=true" alt="Leonardo's GitHub stats" />
-</p>
