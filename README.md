@@ -1,15 +1,21 @@
 <h1 align="center">👋 Hi, I'm Leonardo Lucas!</h1>
 
+<p align="center">
+  <em>Full-Stack Developer · Computer Science Student · Brazil 🇧🇷</em>
+</p>
 
+---
 
-## 😁 About Me  
+## 😁 About Me
 
-🎓 Computer Science student at **Unipê (5th semester)**  
-💻 Currently focused on <strong>Back-End development</strong>, with an emphasis on **Java** and **Spring Boot**  
+🎓 Computer Science student at **Unipê** — 5th semester  
+💻 **Full-Stack Developer** focused on **Spring Boot** (backend) and **React / Next.js with TypeScript** (frontend)  
 🌎 Proudly from **Brazil** 🇧🇷  
-🚀 Passionate about improving my software development skills and building **efficient, scalable, and impactful solutions**  
+🚀 Passionate about building **efficient, scalable, and impactful solutions**
 
-## 🌍 Socials  
+---
+
+## 🌍 Socials
 
 <p align="center">
   <a href="https://www.instagram.com/leolucaswz/" target="_blank">
@@ -23,26 +29,48 @@
   </a>
 </p>
 
+---
 
-## ⚡ Technologies  
+## ⚡ Technologies
+
+### 🖥️ Front-End
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="next.js logo" title="Next.js"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="TypeScript"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript"/>
 </div>
 
+---
+
+### ⚙️ Back-End
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" title="Spring Boot"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" title="Django"/>
+</div>
+
+---
+
+### 🗄️ Database
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL"/>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leolucaswz&show_icons=true&theme=tokyonight&hide_border=true" alt="Leonardo's GitHub stats" />
+</p>
