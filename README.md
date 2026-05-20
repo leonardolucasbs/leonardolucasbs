@@ -24,6 +24,29 @@
   <a href="https://www.linkedin.com/in/leonardo-lucas-a3a482304/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
+  <a href="https://gitlab.com/SEU_USUARIO_GITLAB" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"/>
+  </a>
+</p>
+
+---
+
+## 🦊 GitLab Contributions
+
+<p align="center">
+  I also contribute to private and academic projects hosted on GitLab.
+</p>
+
+<p align="center">
+  <a href="https://gitlab.com/SEU_USUARIO_GITLAB" target="_blank">
+    <img src="https://img.shields.io/badge/View%20my%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gitlab.com/SEU_USUARIO_GITLAB" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-Contributions-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab contributions"/>
+  </a>
 </p>
 
 ---
